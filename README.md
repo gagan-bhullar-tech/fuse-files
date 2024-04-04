@@ -5,4 +5,4 @@ Concatenate files
 ```javascript
 const fuseFiles = require('fuse-files');
 
-fuseFiles([file1, file2, file3], outputFile)
+fuseFiles([directory, file1, file2, file3], outputFile)
