@@ -1,8 +1,8 @@
 Concatenate files
 
-## Usage in Node.js
+Note: There are no external dependencies used
 
-### There are no external dependencies used
+## Usage in Node.js
 
 ```javascript
 const fuseFiles = require('fuse-files');
