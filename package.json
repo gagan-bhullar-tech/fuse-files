@@ -1,6 +1,6 @@
 {
   "name": "fuse-files",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This package is used to concat files",
   "main": "index.js",
   "scripts": {
